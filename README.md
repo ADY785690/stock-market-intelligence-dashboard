@@ -69,6 +69,20 @@ This project is a financial analytics dashboard built using Python and Yahoo Fin
 - LICENSE
 - README.md
 - reliance_stock_analysis.png
+  
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/ADY785690/stock-market-intelligence-dashboard.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run Jupyter Notebook:
+
+jupyter notebook
 
 
 ## Key Findings
@@ -110,15 +124,15 @@ This project is a financial analytics dashboard built using Python and Yahoo Fin
 
 ![Stock Analysis](reliance_stock_analysis.png)
 
-## Future Enhancements
+## Future Improvements
 
 - Interactive Streamlit Dashboard
-- Real-Time Stock Data
+- Real-Time Stock Data Analysis
+- Risk and Sharpe Ratio Calculation
 - Portfolio Optimization
-- Sharpe Ratio Analysis
+- Machine Learning Based Stock Prediction
 - News Sentiment Analysis
 - Buy/Sell Signal Generation
-- Interactive Plotly Charts
 
 
 ## Author
@@ -126,5 +140,7 @@ This project is a financial analytics dashboard built using Python and Yahoo Fin
 Aditya Kr Sharma
 
 B.Tech CSE (Data Science)
+
+GitHub: https://github.com/ADY785690
 
 GitHub: ADY785690
