@@ -61,6 +61,14 @@ This project is a financial analytics dashboard built using Python and Yahoo Fin
 - Yahoo Finance API (yFinance)
 - Jupyter Notebook
 - GitHub
+  
+## Project Structure
+
+- stock_analysis.ipynb
+- requirements.txt
+- LICENSE
+- README.md
+- reliance_stock_analysis.png
 
 
 ## Key Findings
